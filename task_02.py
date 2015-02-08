@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Adding a docstring for testing"""
+"""This is a docstring test"""
 
-print "Hello Student!"
+Name = raw_input('Your Name?')
+
+print "Hello!" + Name
+
+
