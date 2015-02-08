@@ -16,7 +16,9 @@ interpreter.
 You can also execue python programs by calling the program filename
 such as:
 
-    ``me@mymachine $ python my_file_name.py``
+.. code:: console
+
+    me@mymachine $ python my_file_name.py
 
 ###########
 The Syntax
@@ -24,7 +26,9 @@ The Syntax
 
 Python syntax is very easy to write. Take a look at this simple statement:
 
-    ``>>> print 'Hello!'``
+.. code:: pycon
+
+    >>> print 'Hello!'
 
 ###########
 The People
@@ -41,7 +45,7 @@ decorum.
     - Don't give a question with an apology or an announcenment that
       you're going to ask the question.
 
-    *Just ask the question!*
+      *Just ask the question!*
 
 ##########
 The Tools
@@ -85,20 +89,18 @@ Other Details
   3. Pip extends that library even more.
   4. Why aren't you using it already! Go write some Python!
 
-    Sources
-    
-====== ============= 
-Name   Contact
-====== =============  
-Me     me@mysite.com   
-Myself myself@me.com  
-I      I@mii.com   
-====== ============= 
+.. table:: Sources
 
+    ====== ============= 
+    Name   Contact
+    ====== =============  
+    Me     me@mysite.com   
+    Myself myself@me.com  
+    I      I@mii.com   
+    ====== ============= 
 
-**Note**
-
-This is just a little taste of how great Python can be!
+.. note:: 
+    This is just a little taste of how great Python can be!
 
 
 
