@@ -3,8 +3,6 @@
 
 """This is a docstring test"""
 
-Name = raw_input('Your Name?')
+NAME = raw_input('Your Name?')
 
-print "Hello!" + Name
-
-
+print "Hello!" + NAME
